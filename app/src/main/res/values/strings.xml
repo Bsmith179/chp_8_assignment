@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Lab8_bsmith179-2</string>
+    <string name="ivImage">Image of James From Team Rocket</string>
+    <string name="tvTitle">Are You Destined For Defeat?</string>
+    <string name="tvDescription">Me and my pokemon come to your house and destroy you. What terms of batte shall herald your crushing defeat? We offer all the classics! Except the bad ones.</string>
+    <string name="btDate">Book Now!</string>
+    <string name="option1">Species Clause - 700</string>
+    <string name="option2">Item Clause - 1800</string>
+    <string name="option3">Little Cup w/ scale hax - 9000</string>
+    <string name="option4">Full VCG Ruleset - 15000</string>
+    <string name="tvDescription2">NO Smogon rulesets, sleep/freeze/evasion/OHKO clauses. No baton pass, swagger, SleepTrap or other individual or team move restrictions. No ability or item restrictions. We don\'t do that here.</string>
 </resources>
